@@ -1,4 +1,4 @@
-# generators
+# Iteradores
 Código usado en http://carlosvillu.dev/iteradores-en-es6/
 
 
