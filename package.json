@@ -1,0 +1,12 @@
+{
+  "name": "iterator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel",
+    "babel-node": "babel-node"
+  },
+  "author": "Carlos Villuendas <carlosvillu@gmail.com>",
+  "license": "ISC"
+}
