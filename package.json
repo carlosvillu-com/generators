@@ -8,5 +8,8 @@
     "babel-node": "babel-node"
   },
   "author": "Carlos Villuendas <carlosvillu@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^4.7.16"
+  }
 }
