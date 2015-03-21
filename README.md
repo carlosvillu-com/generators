@@ -5,7 +5,7 @@ Código usado en http://carlosvillu.dev/iteradores-en-es6/
 ### Instalación:
 
 ```bash
-$ git clone https://github.com/carlosvillu-com/generators
+$ git clone https://github.com/carlosvillu-com/iterators
 $ cd generator
 $ npm install
 ```
